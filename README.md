@@ -54,7 +54,7 @@ If you'd like to report a bug then: contact me as follows:
 
 ## Useful Links
 
-- [The Great Valley](https://thinkingminds.co.zw)
+- [Thinking Minds](https://thinkingminds.co.zw)
 - [Niaxa Technologies](https://niaxatechnologies.co.zw)
 
 ##  THINKING MINDS
