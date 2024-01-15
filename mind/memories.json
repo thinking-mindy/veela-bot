@@ -1,0 +1,9 @@
+{
+    "mood" : {
+      "keys": "heloys",
+      "keys1":"hey,hi,hello,helo",
+      "rp": ["Hey, how are you doing?","I am fine how are you feeling today?",
+      "Hello, how is everything?","Hi","Hey,there","Hey Tale","What's up Talent"],
+      "sug":["Great", "Not well","Good","Sad","I don't know"]
+    }
+}

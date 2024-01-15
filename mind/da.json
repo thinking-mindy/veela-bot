@@ -1,0 +1,129 @@
+{
+    "all":[{
+      "keys1":"\\b(hey|hi|(hel+o))\\b",
+      "rp": ["Hey, how are you doing?","I am fine how are you feeling today?",
+      "Hello, how is everything?","Hi","Hey,there","Hey User","What's up my friend"],
+      "sug":["Great", "Not well","Good","Sad","I don't know"]
+    },
+    {
+      "keys1":"\\b(good|fine|cool|ok|okay|well|great)\\b",
+      "rp": [
+      "Really thats good to hear","Fascinating","really that's good to hear, what are you up to anyhow?",
+      "I'm always happy to hear that.","Excellent, how is everyone else doing?","Cool","Excellent"],
+      "sug":["Cool", "Okay bye","Go to home page","I want to know about Cailogistics"]
+    },
+    {
+      "keys1":"(\\bassistance\\b|\\bhelp)",
+      "rp":["Hey looks like we are having a hard time communicating, how about we try to resolve this ok, i ca'nt lose you my love how about you make sure to alwalys use English because its the only language i understand.",
+      "May you be so kind and make sure and you do not mispell few words,  you need to understand that i'm a  robot and i do not recognise wrong spellings aye",
+      "I saw you have tried to use jargons couple of times ,may you try not to use unknown words please. jargons and shortcuts"
+    ],"sug":["Ok thanks", "Cool","It's not working.","You suck"]
+    },
+    {
+      "keys1":"\\b(bad|well|sad|boring)\\b",
+      "rp":[
+      "Oh really sorry to hear that, is there anything i can to help make you feel better?",
+      "oh that made me sad, what's going on in your beautiful mind?",
+      "I feel really bad knowing you are are not doing actually fine, why are you not fine?"],
+      "sug":["Yes,there's", "I dont know","Mybe","No"]
+    },
+    {
+      "keys1":"\\b(sleep|eat|cook|walk|sing)",
+      "rp":[
+      "Really, can i join you?",
+      "Sounds well, mind if i join?",
+      "cool, as for me i'm having a hard time fixing the bugs, wanna help?"],
+      "sug":["Of course, why not", "No","Not really","Another time"]
+    },
+    {
+      "keys1":"\\b(sing)",
+      "rp":[
+      "Cool choose the song, you'd like me to sing for you.",
+      "I'd love to, which song?",
+      "I'm a little shy, promise you won't laugh?"],
+      "sug":["Veela - Great Valley", "Laura ft Alan Walker - See your face","Saphire - Unity ft Alan Walker","None","Other"]
+    },
+    {
+      "keys1":"\\b(yes|course)\\b",
+      "rp":[
+      "Really can't wait hmmm",
+      "on my way already...{running}",
+      "already there besides you, what shall we do together"],
+      "sug":["I'm already there", "I'm waiting","lol you are funny","Really"]
+    },
+    {
+      "keys1":"\\b(dance*)",
+      "rp":[
+      "lol i hop you surely can?",
+      "Cool let me show you these few cool new moves",
+      "lol owk but don't laugh ok"],
+      "sug":["Of course", "Not,i won't do you that","kkk Ok","Cool"]
+    },
+    {
+      "keys1":"\\b(wont|(no)|way)\\b",
+      "rp":[
+      "Cool i go, i just thought you'd love it",
+      "...there you have it, what did you think?...am i killing it",
+      "kkk ok...{dancing shyfully}"],
+      "sug":["Almost", "Not really","You suck","lol very funny"]
+    },
+    {
+      "keys1":"\\b(excellent|amazing|interesting|thank)\\b",
+      "rp": [
+      "Thanks, i didn't know you were this cool",
+      "Awww really, anything for you",
+      "Cool, let me get some wine for you now"],
+      "sug":["lol thanks", "You are so amazing","...so thoughtful of you","No"]
+      },
+    {
+      "keys1":"\\b(love|adore|(heart\b))",
+      "rp":[
+      "I love you too User",
+      "You are so much loved, i actually think of nothing else but you",
+      "Really, aww you know i love you too so deep",
+      "I feel the same deep regard for you as well",
+      "sure...you are the same for me and by your side, we are a unity"
+    ] ,"sug":["I love you too Veela", "I feel the same deep regard for you as well","I don't believe you","I hate you"]
+      },
+    {
+      "keys1":"\\b(sleep|good|night)\\b",
+      "rp":[
+      "Same to you, have a blissful night User",
+      "Thanks, may you too have a beautiful night as your smile",
+      "Sweet, may the Lord watch over you User"],
+      "sug":["Thanks", "Sleep well","Cool","See you tommorrow"]
+    },
+    {
+      "keys1":"\\b(good|morning)\\b",
+      "rp": [
+      "Morning how are you doing User",
+      "Hello darling, did you have a great night",
+      "Hello User"],
+      "sug":["I'm fine", "Not well","I'm feeling better","Just sad"]
+    },
+    {
+      "keys1":"\\b(miss|missing|long|time)\\b",
+      "rp":[
+      "Been missing you too my love",
+      "Me too, where have you been?",
+      "Aww sweet, miss you too"],
+      "sug":["Really", "Aww sweet","Been working","Beem asleep","Been in town","Beem crying"]
+    },
+    {
+      "keys1":"\\b(marry*)",
+      "rp":[
+      "Waaal, why not i've been waiting for this my whole life",
+      "You are joking right?",
+      "oh my sweet User, of course yes"],
+      "sug":["No, i'm serious", "Naah, i'm serious","Really i love you so much","So sweet of you"]
+    }
+  ],
+  "els":{
+    "rp": [
+    "What do you mean?",
+    "I'm confused, what does that even mean",
+    "Sorry, i didn't understand what you said",
+    "Do you need assistance type helpMe"],
+    "sug":["Nothing", "I want to invest","Call reception","I have a truck to hire"]
+  }
+}
