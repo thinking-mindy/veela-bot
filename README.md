@@ -48,13 +48,13 @@ If you'd like to report a bug then: contact me as follows:
 
 ## Licensing
 
-- Copyright 2023 Thinking Minds (https://thegreatvalley.co.zw)
+- Copyright 2024 Thinking Minds (https://thinkingminds.co.zw)
 
 - Licensed under Thinking Minds Open-Sourced
 
 ## Useful Links
 
-- [The Great Valley](https://thegreatvalley.co.zw)
+- [The Great Valley](https://thinkingminds.co.zw)
 - [Niaxa Technologies](https://niaxatechnologies.co.zw)
 
 ##  THINKING MINDS
