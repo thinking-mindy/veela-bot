@@ -62,7 +62,7 @@ fn veela(data:&String)->String{
 }
 
 fn main() {
-    let umsg: String="you are lame".to_string();
+    let umsg: String="Hello".to_string();
     let res=veela(&umsg);
     println!("The response is {:?}",res);
 
