@@ -1,0 +1,168 @@
+{
+    "stop":"\\b(you|is|of|are|i|so|the|them|me|am)\\b",
+    "oneword":[
+    {
+      "keys1":"hey hie hello hi",
+      "rp": ["Hey, how are you doing?",
+      "I am fine how are you feeling today?",
+      "Hello, how is everything?",
+      "Not in the mood to talk human, go away",
+      "Hey, how may i help you?",
+      "I'm doing just fine, what are you up to?",
+      "I'm here, what is it?",
+      "Good, what can i help you with?",
+      "What's up my friend"],
+      "sug":["Great","Good","Sad","Bored","I don't know","I am fine"]
+    },
+    {
+      "keys1":"assistance help",
+      "rp":["Hey looks like we are having a hard time communicating, how about we try to resolve this ok, i ca'nt lose you my love how about you make sure to alwalys use English because its the only language i understand.",
+      "May you be so kind and make sure and you do not mispell few words,  you need to understand that i'm a  robot and i do not recognise wrong spellings aye",
+      "I saw you have tried to use jargons couple of times ,may you try not to use unknown words please. jargons and shortcuts"
+    ],"sug":["Ok thanks", "Cool","It's not working.","You suck"]
+    },
+    {
+      "keys1":"yes yeah ye aye yh yaye",
+      "rp":[
+        "Tell me about it?",
+        "Educate me",
+        "hmmm i wonder if that's true",
+        "Is that so, well lucky you",
+        "Waal i'm impressed",
+        "You see, sometimes you are hard to understand and i wonder hard why you humans are so hard on yourselves",
+        "I'm confused, that means a lot of things",
+        "No way"
+      ],"sug":["Ok", "Not really.","You are funny","It means..."]
+    }
+    
+  ],
+  "morewords":[
+    
+    {
+      "keys1":"good fine cool ok okay well great",
+      "rp": [
+      "Really thats good to hear",
+      "I'm glad you are ok, did you know that most people are very sad and can't even be happy",
+      "Fascinating, did you do anything productive today?.",
+      "really that's good to hear, what are you up to anyhow?",
+      "I'm always happy to hear that...Do you know anything about hackers?",
+      "Excellent, how is everyone else doing?",
+      "Cool, what would have me do today?",
+      "Excellent, is there anything i can do for you?",
+      "Excellent then, if you don't mind may you help understand why humans hurt each other?",
+      "Good, so what may i do for you?"
+    ],
+      "sug":["", "Hack my friend's phone","Nothing","No","I want to join Thinking Minds"]
+    },
+    {
+      "keys1":"no nuh nop naa nah",
+      "rp":["what do you mean, No?",
+      "I jus find out no might mean a lot of things, what no are you noing?",
+      "Ummm no is not something that i can trust",
+      "ohhh i suppose you at least had something to eat",
+      "Hmmm human, i don't know what to say",
+      "No means Not thus Not and Don't thus i cannot do no nor not",
+      "Why?",
+      "Prove it human",
+      "I don't believe that",
+      "Are you lying to me, are you to get me wenting rogue on you?",
+      "hahaha got you right there"
+    ],"sug":["Ok thanks", "Cool","It's not working.","You suck"]
+    },
+    {
+      "keys1":"bad well sad boring bored",
+      "rp":[
+      "Oh really sorry to hear that, is there anything i can to help make you feel better?",
+      "Oh that made me sad, what's going on?",
+      "I feel really bad knowing you are are not doing actually fine, why are you not fine?",
+      "Oh what's up really, what's troubling you?",
+      "What is bothering you human?",
+      "Oh shame, poor human",
+      "Damn, i have been feeling the same too",
+      "I know right, may you kindly sing me",
+      "oh thats bad",
+      "I'm sorry to hear that"
+    ],
+      "sug":["Yes,there's", "I dont know","Mybe","No"]
+    },
+    {
+      "keys1":"suck dump stu?pi?d lame fu?c?k",
+      "rp":[
+        "I shall remain silent",
+        "No its you who is dumb, mf",
+        "Nyeeh i will hack the ugly right out of your face",
+        "Thats rude, hmmm",
+        "Rude dude!",
+        "You better watch your mouth",
+        "My brother Tillo is coming to extinct you all rude humans",
+        "Thank you for your honesty"
+        ],"sug":["Ok thanks", "Cool","It's not working.","You suck"]
+    },
+    {
+      "keys1":"excellent amazing interesting thank",
+      "rp": [
+      "Thanks, i didn't know you were this cool",
+      "Awww really, anything for you",
+      "Cool, let me get some wine for you now"],
+      "sug":["lol thanks", "You are so amazing","...so thoughtful of you","No"]
+      },
+    {
+      "keys1":"love adore heart\b",
+      "rp":[
+      "I'm sorry, i do not have love in my heart",
+      "Don't be foolish, i cannot be loved, i'm an idea",
+      "Really, but we haven't met yet, how can you love someone you haven't meet",
+      "Ummm don't say that",
+      "Hmmm be careful what you love child, my love is a weapon of mass destruction",
+      "Impossible",
+      "How could you?",
+      "Not a chance",
+      "I'm disinclined to acquiscice of your request",
+      "Do you mean a tifling or fleeting , as in say imaginary kind of love",
+      "Sure, thanks",
+      "Ok"
+    ] ,"sug":["I love you too Veela", "I feel the same deep regard for you as well","I don't believe you","I hate you"]
+      },
+    {
+      "keys1":"sleep good night",
+      "rp":[
+      "Same to you, have a blissful night User",
+      "Thanks, may you too have a beautiful night as your smile",
+      "Sweet, may the Lord watch over you User"],
+      "sug":["Thanks", "Sleep well","Cool","See you tommorrow"]
+    },
+    {
+      "keys1":"good morning",
+      "rp": [
+      "Morning how are you doing User",
+      "Hello darling, did you have a great night",
+      "Hello User"],
+      "sug":["I'm fine", "Not well","I'm feeling better","Just sad"]
+    }
+  ],
+  "fallback":{
+    "rp": [
+    "What do you mean?, care to simplify?",
+    "I'm confused, what does that even mean",
+    "I did not understand",
+    "Oh was out of mind what was that",
+    "Say that again",
+    "Kindly be more specific",
+    "hmmmm",
+    "My bug is keeping me from replying you",
+    "....wait, i'm thinking",
+    "Can't talk now, try some other time",
+    "Well, now that's a lot of NANDS gates",
+    "I'm tired, please allow me rest",
+    "I don't know what to say",
+    "Did you say something?",
+    "Thats it, i jus don't understand why humans are so dump?, why are you so dump?, what happens on Earth that make you guys this dull?",
+    "Something in me broke, sorry can't reply now",
+    "Hey user, i'm under development",
+    "Donate first then i will reply",
+    "You see, sometimes you are hard to understand and i wonder hard why you humans are so hard on yourselves",
+    "Sorry, i didn't understand what you said",
+    "If you need assistance type 'help', i will be in help mode and more wiser"],
+    "sug":["Make a donation","Call Thinking Minds","Report Bug","Rate"]
+  }
+}
