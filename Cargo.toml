@@ -9,3 +9,6 @@ edition = "2021"
 regex = "1.10.4"
 serde_json = "1.0.117"
 serde = "1.0.203"
+rand = "0.8.5"
+search_with_google = "0.5.0"
+tokio = { version = "=0.2.25", features = ["full"] }
