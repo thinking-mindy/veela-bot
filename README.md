@@ -1,6 +1,6 @@
 ## Hi, i'm Veela😉
 
-- [Reply Now](https://thinkingminds.co.zw/to/bot)
+- [Reply Now](https://thinkingminds.co.zw/veela)
 
 
 ## Install
