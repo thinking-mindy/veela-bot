@@ -3,7 +3,7 @@
 - [Reply Now](https://thinkingminds.co.zw/veela)
 
 
-## Install
+## Node.js Install
 - `npm i @thinkingminds/veela`
 
 ## Overview
