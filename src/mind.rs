@@ -30,21 +30,25 @@ pub fn make_sentance(data: Vec<Value>) -> String {
     //group start words
     let mut rn = rand::thread_rng();
     let mut start: Vec<String> = vec![];
-
+    let mut body: Vec<Value> = vec![];
     let mut sobject: Value = json!({});
-    for s in learned.clone() {
+
+    for s in learned {
         if let Some(data) = s.as_object() {
             if let Some(prev) = data.get("p") {
                 if prev.to_string().contains("0x0") {
                     start.push(data.get("w").unwrap().to_string());
-                    sobject = s;
+                    sobject = s.clone();
+                }
+            }
+            if let Some(nxt) = data.get("n") {
+                if !nxt.to_string().contains("0x0") {
+                    body.push(s);
                 }
             }
         }
     }
-
     //create a sentance
-
     //capitalize first word
     let tss = start[rn.gen_range(0..start.len())].as_str();
     let cap = tss.replacen(
@@ -54,22 +58,10 @@ pub fn make_sentance(data: Vec<Value>) -> String {
     );
     s.push(cap); //add first word to sentence
 
-    //add rest of the words
-    let mut body: Vec<Value> = vec![];
-    for word in learned.clone() {
-        if let Some(data) = word.as_object() {
-            if let Some(nxt) = data.get("n") {
-                if !nxt.to_string().contains("0x0") {
-                    body.push(word);
-                }
-            }
-        }
-    }
-
     fn add_body(curr: Value, mut s: Vec<String>, body: Vec<Value>) -> Vec<String> {
         let mut done: bool = false;
 
-        let mut prev: Value = json!({"":""});
+        let mut prev: Value = json!({});
         let mut rnv = rand::thread_rng();
         let bb = body;
         let mut res = s.clone();
@@ -83,9 +75,11 @@ pub fn make_sentance(data: Vec<Value>) -> String {
         //find nxt word
         match curr.get("n") {
             Some(nxt) => {
+                //get one nword in next words
                 let str = nxt.to_string();
                 let tnxt: Vec<&str> = str.split("0x5").collect();
                 let ttnxt = tnxt[rnv.gen_range(0..tnxt.len())];
+                println!("{ttnxt}");
                 res.push(ttnxt.to_string());
                 println!("{:?}",res);
 
@@ -98,7 +92,7 @@ pub fn make_sentance(data: Vec<Value>) -> String {
             }
             None => done = true,
         }
-
+        println!("Status: {} on {:?}",done,prev);
         if !done {
             res = add_body(prev, res.clone(), bb);
         } else {
@@ -138,17 +132,11 @@ pub fn roam_memories(d:String,mem:String)->String{
                     }
                 }
             }
-
-            if (rate/data.len()).to_string()<0.8.to_string(){
-                result.push(d["rp"].to_string())
-            }
+            if (rate/data.len()).to_string()<0.8.to_string(){result.push(d["rp"].to_string())}
         }
 
-        if !result.is_empty(){
-            result[0].to_string()
-        }else{
-            "".to_string()
-        }
+        if !result.is_empty(){result[0].to_string()}
+        else{"".to_string()}
     }
 }
 
@@ -261,12 +249,12 @@ pub fn learn(data: String)->Vec<Value> {
         let nxt = if i == (tmpdata.len() - 1) {
             " 0x0 ".to_string()
         } else {
-            tmpdata[i + 1].clone()
+            tmpdata[i + 1].to_string()
         };
         let prev = if i < 1 {
             " 0x0 ".to_string()
         } else {
-            tmpdata[i - 1].clone()
+            tmpdata[i - 1].to_string()
         };
         result.push(json!({"w":word,"n":nxt,"p":prev}));
     }
@@ -278,36 +266,34 @@ pub fn learn(data: String)->Vec<Value> {
         let mut done = false;
         for (k, sitem) in result.iter().enumerate() {
             if item["w"] == sitem["w"] && i != k {
-                let mut nxt: String = "".to_string();
-                nxt.insert_str(0, item["n"].as_str().unwrap());
-                nxt.insert_str(0, " 0x5 ");
-                nxt.insert_str(0, sitem["n"].as_str().unwrap());
+                let mut nxt: Vec<String> = vec![];
+                //nxt.insert_str(0, item["n"].as_str().unwrap());
+                nxt.push(item["n"].to_string());
+                nxt.push(json!(" 0x5 ").to_string());
+                nxt.push(sitem["n"].to_string());
 
-                let mut prev: String = "".to_string();
-                prev.insert_str(0, item["p"].as_str().unwrap());
-                prev.insert_str(0, " 0x5 ");
-                prev.insert_str(0, sitem["p"].as_str().unwrap());
+                let mut prev: Vec<String> =vec![];
+                prev.push(item["p"].to_string());
+                prev.push(json!(" 0x5 ").to_string());
+                prev.push(sitem["p"].to_string());
 
-                if sitem["n"] != nxt || sitem["p"] != prev {
-                    if let None = found.join(" ").find(sitem["w"].as_str().unwrap()) {
-                        fresult.push(json!({"w":sitem["w"],"n":nxt,"p":prev}));
+                if nxt.contains(&sitem["n"].to_string()) || prev.contains(&sitem["p"].to_string()) {
+                    if let None = found.join(" ").find(&sitem["w"].to_string()) {
+                        fresult.push(json!({"w":sitem["w"],"n":json!(nxt.join(" ")),"p":json!(prev.join(" "))}));
                         found.push(sitem["w"].to_string());
                     }
                 };
                 done = true;
             }
         }
-        if !done {
-            fresult.push(item.clone())
-        };
+        if !done {fresult.push(item.clone())};
     } 
     
-    /*
-      for item in fresult{
-          println!("{:?}",item);
-      }
-      println!("{:?}",found);
+    for item in fresult.clone(){println!("{:?}",item);}
 
+    /*
+
+      println!("{:?}",found);
     //save learned data
     let mut file = std::fs::OpenOptions::new()
         .append(true)
