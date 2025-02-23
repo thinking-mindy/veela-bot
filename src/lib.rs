@@ -1,1 +1,1 @@
-pub mod mind;
+pub mod minds;
