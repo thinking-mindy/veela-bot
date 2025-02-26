@@ -56,7 +56,7 @@ If you'd like to report a bug then: contact me as follows:
 
 ## Licensing
 
-- Copyright 2024 Thinking Minds LLC (https://thinkingminds.co.zw)
+- Copyright 2025 Thinking Minds LLC (https://thinkingminds.co.zw)
 
 - Licensed under Thinking Minds LLC
 
