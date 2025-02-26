@@ -1,8 +1,13 @@
-use veela::minds::veela;
+use axum::{routing::{get, post}, Router};
+use veela::routes;
+use tower_http::cors::CorsLayer;
 
-#[tokio::main]
-async fn main() {
-    let user_input="help".to_string();
-    let f_result=veela::start(user_input).await;
-    println!("{}",f_result);
+#[shuttle_runtime::main]
+async fn main() -> shuttle_axum::ShuttleAxum {
+    let router = Router::new()
+    .route("/", get(routes::hello_world))
+    .route("/veela", post(routes::veela))
+    .layer(CorsLayer::permissive());
+
+    Ok(router.into())
 }

@@ -3,6 +3,9 @@
 - [Reply Now](https://thinkingminds.co.zw/veela)
 
 
+## Run with Cargo
+- `cargo shuttle run`
+
 ## Node.js Install
 - `npm i @thinkingminds/veela`
 
