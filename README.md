@@ -12,7 +12,7 @@
 - `npm i @thinkingminds/veela`
 
 ## Overview
-- This is a chatbot based module which can help you create chatbots in web, mobile apps. The chatbot comes with build in responses which are limited and therefore one can add more responses as per requirement. This the free version thus its limited of responses and intelligence but the [Premium] version is comming soon which will be very intelligent and will only be costing from [$69].
+- This is a chatbot based module which can help you create chatbots in web, mobile apps. The chatbot comes with build in responses which are limited and therefore one can add more responses as per requirement.
 
 - For students who wish to create thier own chatbots, should it be for school assignment or self app, feel free to use this project's free version as a starting point.
 
@@ -54,7 +54,7 @@ export default function App(){
 If you'd like to report a bug then: contact me as follows:
 
 - Call/ WhatsApp: +263771657582
-- Email: talentjahtale@gmail.com
+- Email: thinkingmindszw@gmail.com
 
 ## Licensing
 
