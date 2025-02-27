@@ -18,9 +18,7 @@ pub fn mind_local(data: String) -> String {
     //clean my data, remove stop words and charcters
     let junk = regex::Regex::new(r"\n|\d|\W").unwrap();
     let junk_words = regex::Regex::new(vdata["stop"].as_str().unwrap()).unwrap();
-    let user_input = junk
-        .replace_all(data.to_lowercase().as_str(), " ")
-        .to_string();
+    let user_input = junk.replace_all(data.to_lowercase().as_str(), " ").to_string();
     let user_input = junk_words.replace_all(user_input.as_str(), "").to_string();
 
     //remove empty strings

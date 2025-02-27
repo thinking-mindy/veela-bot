@@ -1,20 +1,14 @@
+use std::io::Write;
 use serde_json::{json, Value};
 
 pub fn get_learning_data() -> String {
-    match std::fs::read_to_string("data/ll.txt") {
+    match std::fs::read_to_string("data/learn.txt") {
         Ok(file) => file,
         Err(_) => "None".to_string(),
     }
 }
 
-pub fn get_learned_data() -> String {
-    match std::fs::read_to_string("data/mind") {
-        Ok(file) => file,
-        Err(_) => "None".to_string(),
-    }
-}
-
-pub fn learn(data: String)->Vec<Value> {
+pub fn learn(data: String)->bool{
     let mut result: Vec<Value> = vec![];
     let mut fresult: Vec<Value> = vec![];
     let tmpdata: Vec<String> = data
@@ -72,19 +66,20 @@ pub fn learn(data: String)->Vec<Value> {
         if !done {fresult.push(item.clone())};
     } 
     
-    for item in fresult.clone(){println!("{:?}",item);}
+    //for item in fresult.clone(){println!("{:?}",item);}
 
     /*
       println!("{:?}",found);
+    */
+
     //save learned data
     let mut file = std::fs::OpenOptions::new()
         .append(true)
         .open("data/mind")
         .unwrap();
-    for v in fresult {
+    for v in fresult.clone() {
         file.write((serde_json::to_string(&v).unwrap() + "\n").as_bytes())
             .unwrap();
     }
-       */
-      fresult
+    true
 }

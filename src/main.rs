@@ -7,6 +7,7 @@ async fn main() -> shuttle_axum::ShuttleAxum {
     let router = Router::new()
     .route("/", get(routes::hello_world))
     .route("/veela", post(routes::veela))
+    .route("/train", post(routes::train))
     .layer(CorsLayer::permissive());
 
     Ok(router.into())

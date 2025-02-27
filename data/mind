@@ -1,0 +1,533 @@
+{"n":"introduction","p":" 0x0 ","w":""}
+{"n":"you","p":"","w":"introduction"}
+{"n":"\"have\" \" 0x5 \" \"need\"","p":"\"introduction\" \" 0x5 \" \"but\"","w":"you"}
+{"n":"\"an\" \" 0x5 \" \"already\"","p":"\"you\" \" 0x5 \" \"you\"","w":"have"}
+{"n":"\"opportunity\" \" 0x5 \" \"\\\"a\\\"\"","p":"\"have\" \" 0x5 \" \"call\"","w":"an"}
+{"n":"for","p":"an","w":"opportunity"}
+{"n":"\"a\" \" 0x5 \" \"two\"","p":"\"opportunity\" \" 0x5 \" \"classes\"","w":"for"}
+{"n":"\"better\" \" 0x5 \" \"university\"","p":"\"for\" \" 0x5 \" \"in\"","w":"a"}
+{"n":"\"paying\" \" 0x5 \" \"understood\"","p":"\"a\" \" 0x5 \" \"is\"","w":"better"}
+{"n":"job","p":"better","w":"paying"}
+{"n":",","p":"paying","w":"job"}
+{"n":"\"but\" \" 0x5 \" \"you\"","p":"\"job\" \" 0x5 \" \"or\"","w":","}
+{"n":"\"you\" \" 0x5 \" \"your\"","p":"\",\" \" 0x5 \" \",\"","w":"but"}
+{"n":"\"to\" \" 0x5 \" \"to\"","p":"\"you\" \" 0x5 \" \"you\"","w":"need"}
+{"n":"\"improve\" \" 0x5 \" \"enroll\"","p":"\"need\" \" 0x5 \" \"want\"","w":"to"}
+{"n":"\"your\" \" 0x5 \" \"your\"","p":"\"to\" \" 0x5 \" \"to\"","w":"improve"}
+{"n":"\"english\" \" 0x5 \" \"english\"","p":"\"improve\" \" 0x5 \" \"but\"","w":"your"}
+{"n":"\"before\" \" 0x5 \" \"is\"","p":"\"your\" \" 0x5 \" \"your\"","w":"english"}
+{"n":"\"you\" \" 0x5 \" \"evening.\\\"\"","p":"\"english\" \" 0x5 \" \"all\"","w":"before"}
+{"n":"\"apply.\" \" 0x5 \" \"write\"","p":"\"you\" \" 0x5 \" \"and\"","w":"can"}
+{"n":"or","p":"can","w":"apply."}
+{"n":"\",\" \" 0x5 \" \"angry\"","p":"\"apply.\" \" 0x5 \" \",\"","w":"or"}
+{"n":"\"to\" \" 0x5 \" \"to\"","p":"\"you\" \" 0x5 \" \"will\"","w":"want"}
+{"n":"in","p":"to","w":"enroll"}
+{"n":"\"a\" \" 0x5 \" \"the\"","p":"\"enroll\" \" 0x5 \" \"university\"","w":"in"}
+{"n":"in","p":"a","w":"university"}
+{"n":"\"united\" \" 0x5 \" \"university.\"","p":"\"in\" \" 0x5 \" \"at\"","w":"the"}
+{"n":"\"states\" \" 0x5 \" \"states\"","p":"\"the\" \" 0x5 \" \"the\"","w":"united"}
+{"n":"\",\" \" 0x5 \" \",\"","p":"\"united\" \" 0x5 \" \"united\"","w":"states"}
+{"n":"\"not\" \" 0x5 \" \"far\"","p":"\"english\" \" 0x5 \" \"it\"","w":"is"}
+{"n":"\"good\" \" 0x5 \" \"only\"","p":"\"is\" \" 0x5 \" \"words.\"","w":"not"}
+{"n":"\"enough\" \" 0x5 \" \"english\"","p":"\"not\" \" 0x5 \" \"where\"","w":"good"}
+{"n":"\"yet.\" \" 0x5 \" \"to\"","p":"\"good\" \" 0x5 \" \"well\"","w":"enough"}
+{"n":"you","p":"enough","w":"yet."}
+{"n":"\"taken\" \" 0x5 \" \"studying\"","p":"\"have\" \" 0x5 \" \"are\"","w":"already"}
+{"n":"english","p":"already","w":"taken"}
+{"n":"for","p":"english","w":"classes"}
+{"n":"\"years\" \" 0x5 \" \"years\"","p":"\"for\" \" 0x5 \" \"within\"","w":"two"}
+{"n":"\"in\" \" 0x5 \" \",\"","p":"\"two\" \" 0x5 \" \"two\"","w":"years"}
+{"n":"school.","p":"in","w":"secondary"}
+{"n":"maybe","p":"secondary","w":"school."}
+{"n":"you","p":"school.","w":"maybe"}
+{"n":"more","p":"have","w":"studied"}
+{"n":"\"english\" \" 0x5 \" \"mentally\"","p":"\"studied\" \" 0x5 \" \"be\"","w":"more"}
+{"n":"\"the\" \" 0x5 \" \"normal\"","p":"\"english\" \" 0x5 \" \"both\"","w":"at"}
+{"n":"you","p":"the","w":"university."}
+{"n":"\"english\" \" 0x5 \" \"big\"","p":"\"you\" \" 0x5 \" \"dents\"","w":"know"}
+{"n":"\"and\" \" 0x5 \" \"and\"","p":"\"english\" \" 0x5 \" \"english\"","w":"grammar"}
+{"n":"\"can\" \" 0x5 \" \"you\"","p":"\"grammar\" \" 0x5 \" \"english.\"","w":"and"}
+{"n":",","p":"can","w":"write"}
+{"n":"\"how\" \" 0x5 \" \"fluent\"","p":"\"to\" \" 0x5 \" \"to\"","w":"learn"}
+{"n":"\"to\" \" 0x5 \" \"to\"","p":"\"learn\" \" 0x5 \" \"you\"","w":"how"}
+{"n":"\"english.\" \" 0x5 \" \"english\"","p":"\"to\" \" 0x5 \" \"to\"","w":"speak"}
+{"n":"\"and\" \" 0x5 \" \"with\"","p":"\"speak\" \" 0x5 \" \"spoken\"","w":"english."}
+{"n":"\"english\" \" 0x5 \" \"english.\"","p":"\"your\" \" 0x5 \" \"fluent\"","w":"spoken"}
+{"n":"\"quickly.\" \" 0x5 \" \"quickly.\"","p":"\"english\" \" 0x5 \" \"english\"","w":"very"}
+{"n":"\"this\" \" 0x5 \" \"if\"","p":"\"very\" \" 0x5 \" \"very\"","w":"quickly."}
+{"n":"\"book\" \" 0x5 \" \"book\"","p":"\"quickly.\" \" 0x5 \" \"from\"","w":"this"}
+{"n":"\"will\" \" 0x5 \" \",\"","p":"\"this\" \" 0x5 \" \"this\"","w":"book"}
+{"n":"\"tell\" \" 0x5 \" \"call\"","p":"\"book\" \" 0x5 \" \"i\"","w":"will"}
+{"n":"\"you\" \" 0x5 \" \"you\"","p":"\"will\" \" 0x5 \" \"others\"","w":"tell"}
+{"n":"your","p":"to","w":"retrain"}
+{"n":"your","p":"your","w":"mind—and"}
+{"n":"order","p":"your","w":"tongue—in"}
+{"n":"\"to\" \" 0x5 \" \"to\"","p":"\"tongue—in\" \" 0x5 \" \"in\"","w":"order"}
+{"n":"\"spoken\" \" 0x5 \" \"english.\"","p":"\"learn\" \" 0x5 \" \"speak\"","w":"fluent"}
+{"n":"\"the\" \" 0x5 \" \"other\"","p":"\"english.\" \" 0x5 \" \"pattern\"","w":"with"}
+{"n":"from","p":"the","w":"information"}
+{"n":"\"this\" \" 0x5 \" \"tense\"","p":"\"information\" \" 0x5 \" \"move\"","w":"from"}
+{"n":"\"of\" \" 0x5 \" \"of\"","p":"\"in\" \" 0x5 \" \"than\"","w":"half"}
+{"n":"\"the\" \" 0x5 \" \"english\"","p":"\"half\" \" 0x5 \" \"types\"","w":"of"}
+{"n":"\"it\" \" 0x5 \" \"in\"","p":"\"the\" \" 0x5 \" \"this\"","w":"time"}
+{"n":"\"normally\" \" 0x5 \" \"is\"","p":"\"time\" \" 0x5 \" \"words.\"","w":"it"}
+{"n":"\"takes.\" \" 0x5 \" \"takes\"","p":"\"it\" \" 0x5 \" \"it\"","w":"normally"}
+{"n":"in","p":"normally","w":"takes."}
+{"n":"\"quickly\" \" 0x5 \" \"quickly\"","p":"\"english\" \" 0x5 \" \"english\"","w":"learned"}
+{"n":"\"course\" \" 0x5 \" \"lessons\"","p":"\"learned\" \" 0x5 \" \"learned\"","w":"quickly"}
+{"n":"\",\" \" 0x5 \" \"on\"","p":"\"quickly\" \" 0x5 \" \"quickly\"","w":"course"}
+{"n":"\"try\" \" 0x5 \" \"use\"","p":"\",\" \" 0x5 \" \"lessons\"","w":"we"}
+{"n":"to","p":"we","w":"try"}
+{"n":"the","p":"to","w":"follow"}
+{"n":"\"pattern\" \" 0x5 \" \"fluency\"","p":"\"the\" \" 0x5 \" \"the\"","w":"same"}
+{"n":"with","p":"same","w":"pattern"}
+{"n":"\"types\" \" 0x5 \" \"language—faster\"","p":"\"with\" \" 0x5 \" \"any\"","w":"other"}
+{"n":"\"of\" \" 0x5 \" \"of\"","p":"\"other\" \" 0x5 \" \"four\"","w":"types"}
+{"n":"\"it\" \" 0x5 \" \"not\"","p":"\"english\" \" 0x5 \" \"vocabulary\"","w":"words."}
+{"n":"easier","p":"is","w":"far"}
+{"n":"\"to\" \" 0x5 \" \"to\"","p":"\"far\" \" 0x5 \" \"it\"","w":"easier"}
+{"n":"\",\" \" 0x5 \" \",\"","p":"\"learn\" \" 0x5 \" \"know\"","w":"big"}
+{"n":"\",\" \" 0x5 \" \",\"","p":"\",\" \" 0x5 \" \",\"","w":"bigger"}
+{"n":"\",\" \" 0x5 \" \",\"","p":"\"and\" \" 0x5 \" \"and\"","w":"biggest"}
+{"n":",","p":"or","w":"angry"}
+{"n":",","p":",","w":"angrier"}
+{"n":",","p":",","w":"angriest"}
+{"n":"as","p":"and","w":"angrily"}
+{"n":"\"cog-\" \" 0x5 \" \"individual\"","p":"\"angrily\" \" 0x5 \" \"them\"","w":"as"}
+{"n":"nate","p":"as","w":"cog-"}
+{"n":"groups","p":"cog-","w":"nate"}
+{"n":"than","p":"nate","w":"groups"}
+{"n":"\"it\" \" 0x5 \" \"from\"","p":"\"groups\" \" 0x5 \" \"rather\"","w":"than"}
+{"n":"\"as\" \" 0x5 \" \"here\"","p":"\"learn\" \" 0x5 \" \".\"","w":"them"}
+{"n":"vocabulary","p":"as","w":"individual"}
+{"n":"\"words.\" \" 0x5 \" \"during\"","p":"\"individual\" \" 0x5 \" \"new\"","w":"vocabulary"}
+{"n":"\"is\" \" 0x5 \" \"the\"","p":"\"not\" \" 0x5 \" \"know\"","w":"only"}
+{"n":"bad","p":"to","w":"remember"}
+{"n":",","p":"remember","w":"bad"}
+{"n":",","p":",","w":"worse"}
+{"n":",","p":",","w":"worst"}
+{"n":"as","p":"and","w":"badly"}
+{"n":",","p":"a","w":"group"}
+{"n":"\"meaning\" \" 0x5 \" \"language\"","p":"\"but\" \" 0x5 \" \"in\"","w":"their"}
+{"n":"is","p":"their","w":"meaning"}
+{"n":"because","p":"better","w":"understood"}
+{"n":"\"they\" \" 0x5 \" \"you\"","p":"\"understood\" \" 0x5 \" \"book\"","w":"because"}
+{"n":"\"are\" \" 0x5 \" \"can\"","p":"\"because\" \" 0x5 \" \",\"","w":"they"}
+{"n":"\"logically\" \" 0x5 \" \"used\"","p":"\"they\" \" 0x5 \" \"tables\"","w":"are"}
+{"n":"related","p":"are","w":"logically"}
+{"n":"to","p":"logically","w":"related"}
+{"n":"\"other.\" \" 0x5 \" \"hour\"","p":"\"to\" \" 0x5 \" \"for\"","w":"each"}
+{"n":"the","p":"each","w":"other."}
+{"n":"\"advantage\" \" 0x5 \" \"difficulty.\"","p":"\"the\" \" 0x5 \" \"your\"","w":"greatest"}
+{"n":",","p":"greatest","w":"advantage"}
+{"n":"\",\" \" 0x5 \" \",\"","p":"\",\" \" 0x5 \" \"speed.\"","w":"however"}
+{"n":"\"this\" \" 0x5 \" \"language\"","p":"\"is\" \" 0x5 \" \"understanding\"","w":"that"}
+{"n":"\"teaches\" \" 0x5 \" \"of\"","p":"\"this\" \" 0x5 \" \"your\"","w":"method"}
+{"n":"\"students\" \" 0x5 \" \"the\"","p":"\"method\" \" 0x5 \" \"format\"","w":"teaches"}
+{"n":"\"how\" \" 0x5 \" \"to\"","p":"\"teaches\" \" 0x5 \" \"our\"","w":"students"}
+{"n":"\"is\" \" 0x5 \" \"fluency\"","p":"\"english\" \" 0x5 \" \"of\"","w":"language"}
+{"n":"when","p":"is","w":"developed."}
+{"n":"\"stu-\" \" 0x5 \" \"they\"","p":"\"developed.\" \" 0x5 \" \"acquired\"","w":"when"}
+{"n":"\"dents\" \" 0x5 \" \"dents\"","p":"\"when\" \" 0x5 \" \"the\"","w":"stu-"}
+{"n":"\"know\" \" 0x5 \" \"to\"","p":"\"stu-\" \" 0x5 \" \"stu-\"","w":"dents"}
+{"n":"\"develop\" \" 0x5 \" \"reach\"","p":"\"can\" \" 0x5 \" \"and\"","w":"then"}
+{"n":"\"the\" \" 0x5 \" \"as\"","p":"\"then\" \" 0x5 \" \"to\"","w":"develop"}
+{"n":"\"tallest\" \" 0x5 \" \"tall.\"","p":"\"the\" \" 0x5 \" \"the\"","w":"word"}
+{"n":"if","p":"word","w":"tallest"}
+{"n":"\"they\" \" 0x5 \" \"you\"","p":"\"tallest\" \" 0x5 \" \"quickly.\"","w":"if"}
+{"n":"the","p":"word","w":"tall."}
+{"n":"essence","p":"the","w":"real"}
+{"n":"of","p":"real","w":"essence"}
+{"n":"\"is\" \" 0x5 \" \"they\"","p":"\"language\" \" 0x5 \" \"the\"","w":"fluency"}
+{"n":"that","p":"is","w":"understanding"}
+{"n":"\"enough\" \" 0x5 \" \",\"","p":"\"language\" \" 0x5 \" \"english\"","w":"well"}
+{"n":"use","p":"to","w":"intuitively"}
+{"n":"\"new\" \" 0x5 \" \"the\"","p":"\"intuitively\" \" 0x5 \" \"to\"","w":"use"}
+{"n":"\"vocabulary\" \" 0x5 \" \"exercise\"","p":"\"use\" \" 0x5 \" \"a\"","w":"new"}
+{"n":"\"actual\" \" 0x5 \" \"the\"","p":"\"vocabulary\" \" 0x5 \" \"alert\"","w":"during"}
+{"n":"conversation.","p":"during","w":"actual"}
+{"n":"all","p":"actual","w":"conversation."}
+{"n":"\"of\" \" 0x5 \" \"verb\"","p":"\"conversation.\" \" 0x5 \" \"formats.\"","w":"all"}
+{"n":"comments","p":"the","w":"above"}
+{"n":"relate","p":"above","w":"comments"}
+{"n":"to","p":"comments","w":"relate"}
+{"n":"\"you\" \" 0x5 \" \"it\"","p":"\"spoken\" \" 0x5 \" \"spoken\"","w":"language."}
+{"n":"\"find\" \" 0x5 \" \"also\"","p":"\"you\" \" 0x5 \" \"you\"","w":"may"}
+{"n":"it","p":"may","w":"find"}
+{"n":"to","p":"it","w":"helpful"}
+{"n":"words","p":"to","w":"organize"}
+{"n":"\"in\" \" 0x5 \" \"in\"","p":"\"organize\" \" 0x5 \" \"the\"","w":"words"}
+{"n":"\"form.\" \" 0x5 \" \"formats.\"","p":"\"in\" \" 0x5 \" \"verb\"","w":"table"}
+{"n":"but","p":"table","w":"form."}
+{"n":"\"learn\" \" 0x5 \" \"stop\"","p":"\"you\" \" 0x5 \" \"you\"","w":"must"}
+{"n":"\"of\" \" 0x5 \" \"of\"","p":"\"the\" \" 0x5 \" \"the\"","w":"context"}
+{"n":"written","p":"not","w":"merely"}
+{"n":"\"tables.\" \" 0x5 \" \"text\"","p":"\"merely\" \" 0x5 \" \"the\"","w":"written"}
+{"n":"four","p":"written","w":"tables."}
+{"n":"\"types\" \" 0x5 \" \"verb\"","p":"\"tables.\" \" 0x5 \" \"use\"","w":"four"}
+{"n":"\"drills\" \" 0x5 \" \"table\"","p":"\"of\" \" 0x5 \" \"four\"","w":"verb"}
+{"n":"\"in\" \" 0x5 \" \"with\"","p":"\"verb\" \" 0x5 \" \"english\"","w":"drills"}
+{"n":"\"we\" \" 0x5 \" \",\"","p":"\"quickly\" \" 0x5 \" \"early\"","w":"lessons"}
+{"n":"all","p":"table","w":"formats."}
+{"n":"are","p":"verb","w":"tables"}
+{"n":"\"as\" \" 0x5 \" \"spoken\"","p":"\"are\" \" 0x5 \" \"widely\"","w":"used"}
+{"n":"\"audio.\" \" 0x5 \" \"audio\"","p":"\"with\" \" 0x5 \" \"are\"","w":"recorded"}
+{"n":"in","p":"recorded","w":"audio."}
+{"n":"\"lessons\" \" 0x5 \" \"in\"","p":"\"the\" \" 0x5 \" \"so\"","w":"early"}
+{"n":"\"format\" \" 0x5 \" \"sentences\"","p":"\"the\" \" 0x5 \" \"the\"","w":"following"}
+{"n":"\"which\" \" 0x5 \" \"verb\"","p":"\"following\" \" 0x5 \" \"\\\"a\\\"\"","w":"format"}
+{"n":"\"i\" \" 0x5 \" \"contains\"","p":"\"format\" \" 0x5 \" \"workbook\"","w":"which"}
+{"n":"\"will\" \" 0x5 \" \"call\"","p":"\"which\" \" 0x5 \" \"•\"","w":"i"}
+{"n":"\"an\" \" 0x5 \" \"(to\"","p":"\"will\" \" 0x5 \" \"to\"","w":"call"}
+{"n":"\"format\" \" 0x5 \" \"format\"","p":"\"an\" \" 0x5 \" \"an\"","w":"\"a\""}
+{"n":"1.","p":"verb","w":"drill:"}
+{"n":"an","p":"drill:","w":"1."}
+{"n":"\"to\" \" 0x5 \" \"complete\"","p":"\"verb\" \" 0x5 \" \"verb\"","w":"drill."}
+{"n":"\"call)\" \" 0x5 \" \"test)\"","p":"\"call\" \" 0x5 \" \"test\"","w":"(to"}
+{"n":"\"/\" \" 0x5 \" \"/\"","p":"\"(to\" \" 0x5 \" \"(i\"","w":"call)"}
+{"n":"\"he\" \" 0x5 \" \"please\"","p":"\"call)\" \" 0x5 \" \"(call.)\"","w":"/"}
+{"n":"\"promised\" \" 0x5 \" \"calls\"","p":"\"/\" \" 0x5 \" \"/\"","w":"he"}
+{"n":"\"to\" \" 0x5 \" \"to\"","p":"\"he\" \" 0x5 \" \"(he\"","w":"promised"}
+{"n":"\"(he\" \" 0x5 \" \"(call.)\"","p":"\"to\" \" 0x5 \" \"call.)\"","w":"call."}
+{"n":"\"promised\" \" 0x5 \" \"calls)\"","p":"\"call.\" \" 0x5 \" \"calls\"","w":"(he"}
+{"n":"\"call.\" \" 0x5 \" \"calling\"","p":"\"to\" \" 0x5 \" \"(please\"","w":"call.)"}
+{"n":"/","p":"call.","w":"(call.)"}
+{"n":"\"call.\" \" 0x5 \" \"test\"","p":"\"/\" \" 0x5 \" \"/\"","w":"please"}
+{"n":"\"call.)\" \" 0x5 \" \"test\"","p":"\"call.\" \" 0x5 \" \"it.\"","w":"(please"}
+{"n":"(calling)","p":"call.)","w":"calling"}
+{"n":"/","p":"calling","w":"(calling)"}
+{"n":"(it","p":"is","w":"calling."}
+{"n":"\"is\" \" 0x5 \" \"is\"","p":"\"calling.\" \" 0x5 \" \"called\"","w":"(it"}
+{"n":"called","p":"is","w":"calling.)"}
+{"n":"\"(called)\" \" 0x5 \" \"(it\"","p":"\"calling.)\" \" 0x5 \" \"is\"","w":"called"}
+{"n":"/","p":"called","w":"(called)"}
+{"n":"\"/\" \" 0x5 \" \"/\"","p":"\"is\" \" 0x5 \" \"was\"","w":"called)"}
+{"n":"\"called\" \" 0x5 \" \"called)\"","p":"\"it\" \" 0x5 \" \"(it\"","w":"was"}
+{"n":"\"called\" \" 0x5 \" \"called)\"","p":"\"will\" \" 0x5 \" \"will\"","w":"be"}
+{"n":"\"i\" \" 0x5 \" \"i\"","p":"\"called)\" \" 0x5 \" \"call)\"","w":"•"}
+{"n":"\"call)\" \" 0x5 \" \"called)\"","p":"\"call\" \" 0x5 \" \"called\"","w":"(i"}
+{"n":"\"(he\" \" 0x5 \" \"(she\"","p":"\"he\" \" 0x5 \" \"she\"","w":"calls"}
+{"n":"\"/\" \" 0x5 \" \"/\"","p":"\"(he\" \" 0x5 \" \"(she\"","w":"calls)"}
+{"n":"\"calls\" \" 0x5 \" \"called\"","p":"\"/\" \" 0x5 \" \"/\"","w":"she"}
+{"n":"\"calls)\" \" 0x5 \" \"called)\"","p":"\"calls\" \" 0x5 \" \"called\"","w":"(she"}
+{"n":"\"call)\" \" 0x5 \" \"called)\"","p":"\"call\" \" 0x5 \" \"called\"","w":"(you"}
+{"n":"\"call)\" \" 0x5 \" \"called)\"","p":"\"call\" \" 0x5 \" \"called\"","w":"(we"}
+{"n":"\"call)\" \" 0x5 \" \"called)\"","p":"\"call\" \" 0x5 \" \"called\"","w":"(they"}
+{"n":"all","p":"call)","w":"since"}
+{"n":"\"exercises\" \" 0x5 \" \"students\"","p":"\"of\" \" 0x5 \" \"allows\"","w":"our"}
+{"n":"are","p":"our","w":"exercises"}
+{"n":"\"lessons\" \" 0x5 \" \"recording\"","p":"\"recorded\" \" 0x5 \" \"the\"","w":"audio"}
+{"n":"\"re-\" \" 0x5 \" \"respond\"","p":"\"you\" \" 0x5 \" \"you\"","w":"would"}
+{"n":"spond","p":"would","w":"re-"}
+{"n":"by","p":"re-","w":"spond"}
+{"n":"\"repeating\" \" 0x5 \" \"using\"","p":"\"spond\" \" 0x5 \" \"exercise\"","w":"by"}
+{"n":"the","p":"by","w":"repeating"}
+{"n":"parentheses.","p":"words","w":"inside"}
+{"n":"we","p":"inside","w":"parentheses."}
+{"n":"a","p":"we","w":"provide"}
+{"n":"page","p":"a","w":"450-"}
+{"n":"student","p":"450-","w":"page"}
+{"n":"\"workbook\" \" 0x5 \" \"workbook\"","p":"\"page\" \" 0x5 \" \"our\"","w":"student"}
+{"n":"\"which\" \" 0x5 \" \",\"","p":"\"student\" \" 0x5 \" \"student\"","w":"workbook"}
+{"n":"the","p":"which","w":"contains"}
+{"n":"\"for\" \" 0x5 \" \"aside\"","p":"\"written\" \" 0x5 \" \"written\"","w":"text"}
+{"n":"\"the\" \" 0x5 \" \"language\"","p":"\"spoken\" \" 0x5 \" \"format\"","w":"drills."}
+{"n":"phrases","p":"the","w":"parenthetical"}
+{"n":"are","p":"parenthetical","w":"phrases"}
+{"n":"in","p":"are","w":"included"}
+{"n":"\"thus\" \" 0x5 \" \"repeated\"","p":"\"written\" \" 0x5 \" \"the\"","w":"text."}
+{"n":",","p":"text.","w":"thus"}
+{"n":"says","p":"the","w":"narrator"}
+{"n":"\",\" \" 0x5 \" \",\"","p":"\"narrator\" \" 0x5 \" \"tor\"","w":"says"}
+{"n":"\"call\\\"\" \" 0x5 \" \"call.\\\"\"","p":"\",\" \" 0x5 \" \",\"","w":"\"to"}
+{"n":"and","p":"\"to","w":"call\""}
+{"n":"\",\" \" 0x5 \" \",\"","p":"\"would\" \" 0x5 \" \"would\"","w":"respond"}
+{"n":"\"the\" \" 0x5 \" \"and\"","p":"\"\\\"to\" \" 0x5 \" \"to\"","w":"call.\""}
+{"n":"tor","p":"the","w":"narra-"}
+{"n":"says","p":"narra-","w":"tor"}
+{"n":"\"promised\" \" 0x5 \" \"promised\"","p":"\",\" \" 0x5 \" \",\"","w":"\"he"}
+{"n":"is","p":"call.\"","w":"everything"}
+{"n":"as","p":"as","w":"soon"}
+{"n":"a","p":"would","w":"understand"}
+{"n":"\",\" \" 0x5 \" \"by\"","p":"\"new\" \" 0x5 \" \"the\"","w":"exercise"}
+{"n":"the","p":"would","w":"put"}
+{"n":"and","p":"text","w":"aside"}
+{"n":"\"the\" \" 0x5 \" \"the\"","p":"\"and\" \" 0x5 \" \"drill.\"","w":"complete"}
+{"n":"\"only\" \" 0x5 \" \"the\"","p":"\"by\" \" 0x5 \" \"person\"","w":"using"}
+{"n":"without","p":"audio","w":"recording"}
+{"n":"the","p":"recording","w":"without"}
+{"n":"use","p":"text.","w":"repeated"}
+{"n":"allows","p":"is","w":"what"}
+{"n":"our","p":"what","w":"allows"}
+{"n":"an","p":"to","w":"conjugate"}
+{"n":"verb","p":"an","w":"unknown"}
+{"n":"can","p":"verb","w":"correctly."}
+{"n":"the","p":"you","w":"see"}
+{"n":"when","p":"have","w":"acquired"}
+{"n":"use","p":"can","w":"correctly"}
+{"n":"so","p":"english","w":"verbs"}
+{"n":"\"early\" \" 0x5 \" \"we\"","p":"\"verbs\" \" 0x5 \" \",\"","w":"so"}
+{"n":"\"experience?\" \" 0x5 \" \"spoken\"","p":"\"language\" \" 0x5 \" \"38\"","w":"learning"}
+{"n":"that","p":"learning","w":"experience?"}
+{"n":"\"english.\" \" 0x5 \" \",\"","p":"\"you\" \" 0x5 \" \"of\"","w":"study"}
+{"n":"early","p":"english.","w":"quite"}
+{"n":"series","p":"the","w":"lesson"}
+{"n":",","p":"lesson","w":"series"}
+{"n":"\"verb\" \" 0x5 \" \"english\"","p":"\"use\" \" 0x5 \" \"in\"","w":"another"}
+{"n":"throughout","p":"table","w":"format."}
+{"n":"our","p":"format.","w":"throughout"}
+{"n":"\"verb\" \" 0x5 \" \"verb\"","p":"\"all\" \" 0x5 \" \"the\"","w":"irregular"}
+{"n":"are","p":"verb","w":"forms"}
+{"n":"type.","p":"in","w":"bold"}
+{"n":"a","p":"bold","w":"type."}
+{"n":"for","p":"a","w":"drill"}
+{"n":"looks","p":"\"to","w":"meet\""}
+{"n":"\"like\" \" 0x5 \" \"like\"","p":"\"meet\\\"\" \" 0x5 \" \"it\"","w":"looks"}
+{"n":"\"this:\" \" 0x5 \" \"this:\"","p":"\"looks\" \" 0x5 \" \"looks\"","w":"like"}
+{"n":"\"2.\" \" 0x5 \" \"3.\"","p":"\"like\" \" 0x5 \" \"like\"","w":"this:"}
+{"n":"a","p":"this:","w":"2."}
+{"n":"completion","p":"a","w":"sentence"}
+{"n":"english","p":"sentence","w":"completion"}
+{"n":"\"with\" \" 0x5 \" \"with\"","p":"\"following\" \" 0x5 \" \"following\"","w":"sentences"}
+{"n":"\".\" \" 0x5 \" \".\"","p":"\"with\" \" 0x5 \" \"with\"","w":"\""}
+{"n":"\".\" \" 0x5 \" \".\"","p":"\"\\\"\" \" 0x5 \" \".\"","w":"."}
+{"n":"\"every\" \" 0x5 \" \"every\"","p":"\"them\" \" 0x5 \" \"them\"","w":"here"}
+{"n":"\"evening.\\\"\" \" 0x5 \" \"evening.)\"","p":"\"here\" \" 0x5 \" \"here\"","w":"every"}
+{"n":"\"i\" \" 0x5 \" \"i\"","p":"\"every\" \" 0x5 \" \"before\"","w":"evening.\""}
+{"n":"\"meet\" \" 0x5 \" \"meet\"","p":"\"i\" \" 0x5 \" \"(i\"","w":"always"}
+{"n":"\".\" \" 0x5 \" \"them\"","p":"\"always\" \" 0x5 \" \"always\"","w":"meet"}
+{"n":"\"/\" \" 0x5 \" \"/\"","p":"\"every\" \" 0x5 \" \"every\"","w":"evening.)"}
+{"n":"\".\" \" 0x5 \" \"them\"","p":"\"always\" \" 0x5 \" \"always\"","w":"meets"}
+{"n":"\"work.\\\"\" \" 0x5 \" \"work.)\"","p":"\"here\" \" 0x5 \" \"here\"","w":"after"}
+{"n":"i","p":"after","w":"work.\""}
+{"n":"\".\" \" 0x5 \" \"them\"","p":"\"always\" \" 0x5 \" \"always\"","w":"met"}
+{"n":"\"/\" \" 0x5 \" \"/\"","p":"\"after\" \" 0x5 \" \"after\"","w":"work.)"}
+{"n":"learning","p":"always","w":"38"}
+{"n":"\"the\" \" 0x5 \" \"english.\"","p":"\"english\" \" 0x5 \" \"of\"","w":"studying"}
+{"n":"met","p":"verb","w":"39"}
+{"n":"\"the\" \" 0x5 \" \"the\"","p":"\"evening.)\" \" 0x5 \" \"even\"","w":"though"}
+{"n":",","p":"are","w":"simple"}
+{"n":"jugation","p":"verb","w":"con-"}
+{"n":"in","p":"con-","w":"jugation"}
+{"n":"\"forces\" \" 0x5 \" \"be\"","p":"\"it\" \" 0x5 \" \"will\"","w":"also"}
+{"n":"the","p":"also","w":"forces"}
+{"n":"alert","p":"more","w":"mentally"}
+{"n":"during","p":"mentally","w":"alert"}
+{"n":"\"later\" \" 0x5 \" \"that\"","p":"\"the\" \" 0x5 \" \"same\"","w":"exercise."}
+{"n":"in","p":"exercise.","w":"later"}
+{"n":"ken","p":"the","w":"spo-"}
+{"n":"english","p":"spo-","w":"ken"}
+{"n":"a","p":"we","w":"add"}
+{"n":"\"type\" \" 0x5 \" \"verb\"","p":"\"a\" \" 0x5 \" \"the\"","w":"third"}
+{"n":"of","p":"third","w":"type"}
+{"n":"identifying","p":"i","w":"am"}
+{"n":"here","p":"am","w":"identifying"}
+{"n":"\"format\" \" 0x5 \" \"format\"","p":"\"a\" \" 0x5 \" \"3.\"","w":"\"b\""}
+{"n":"it","p":"format","w":"table."}
+{"n":"\"b\"","p":"this:","w":"3."}
+{"n":"\"(to\" \" 0x5 \" \"it.\"","p":"\"to\" \" 0x5 \" \"to\"","w":"test"}
+{"n":"\"/\" \" 0x5 \" \"i\"","p":"\"(to\" \" 0x5 \" \"(i\"","w":"test)"}
+{"n":"\"(he\" \" 0x5 \" \"(please\"","p":"\"test\" \" 0x5 \" \"test\"","w":"it."}
+{"n":"\"test.\" \" 0x5 \" \"testing\"","p":"\"test\" \" 0x5 \" \"test\"","w":"it.)"}
+{"n":"(test.)","p":"it.)","w":"test."}
+{"n":"/","p":"test.","w":"(test.)"}
+{"n":"\"(testing)\" \" 0x5 \" \"some.\"","p":"\"it.)\" \" 0x5 \" \"is\"","w":"testing"}
+{"n":"/","p":"testing","w":"(testing)"}
+{"n":"(he","p":"testing","w":"some."}
+{"n":"tested","p":"testing","w":"some.)"}
+{"n":"\"(tested)\" \" 0x5 \" \"(it\"","p":"\"some.)\" \" 0x5 \" \"is\"","w":"tested"}
+{"n":"/","p":"tested","w":"(tested)"}
+{"n":"\"/\" \" 0x5 \" \"/\"","p":"\"is\" \" 0x5 \" \"was\"","w":"tested)"}
+{"n":"\"(he\" \" 0x5 \" \"(she\"","p":"\"he\" \" 0x5 \" \"she\"","w":"tests"}
+{"n":"\"he\" \" 0x5 \" \"she\"","p":"\"(he\" \" 0x5 \" \"(she\"","w":"tests)"}
+{"n":"the","p":"we","w":"force"}
+{"n":"\"from\" \" 0x5 \" \"in\"","p":"\"to\" \" 0x5 \" \"to\"","w":"move"}
+{"n":"\"to\" \" 0x5 \" \"us-\"","p":"\"from\" \" 0x5 \" \"to\"","w":"tense"}
+{"n":"\"ing\" \" 0x5 \" \"ing\"","p":"\"tense\" \" 0x5 \" \"while\"","w":"us-"}
+{"n":"\"the\" \" 0x5 \" \"the\"","p":"\"us-\" \" 0x5 \" \"us-\"","w":"ing"}
+{"n":"\",\" \" 0x5 \" \"to\"","p":"\"same\" \" 0x5 \" \"from\"","w":"person"}
+{"n":"than","p":",","w":"rather"}
+{"n":"in","p":"we","w":"did"}
+{"n":"both","p":"language","w":"requires"}
+{"n":"\"skills\" \" 0x5 \" \"at\"","p":"\"requires\" \" 0x5 \" \"do\"","w":"both"}
+{"n":",","p":"both","w":"skills"}
+{"n":"the","p":"we","w":"teach"}
+{"n":"\"both\" \" 0x5 \" \"both.\"","p":"\"to\" \" 0x5 \" \"to\"","w":"do"}
+{"n":"\"conversation\" \" 0x5 \" \"process.\"","p":"\"at\" \" 0x5 \" \"a\"","w":"normal"}
+{"n":"speed.","p":"normal","w":"conversation"}
+{"n":"however","p":"conversation","w":"speed."}
+{"n":"to","p":"be","w":"able"}
+{"n":"consequently","p":"do","w":"both."}
+{"n":",","p":"both.","w":"consequently"}
+{"n":"between","p":"we","w":"alternate"}
+{"n":"table","p":"alternate","w":"between"}
+{"n":"in","p":"table","w":"formats"}
+{"n":"\"verb\" \" 0x5 \" \"language.\"","p":"\"the\" \" 0x5 \" \"their\"","w":"first"}
+{"n":"using","p":"is","w":"given"}
+{"n":"verb","p":"the","w":"second"}
+{"n":"\"format\" \" 0x5 \" \"format\"","p":"\"the\" \" 0x5 \" \"the\"","w":"b"}
+{"n":"using","p":"the","w":"fourth"}
+{"n":"\"to\" \" 0x5 \" \"www.freeenglishnow.com\"","p":"\"so\" \" 0x5 \" \"course\"","w":"on"}
+{"n":"of","p":"the","w":"end"}
+{"n":"the","p":"this","w":"increases"}
+{"n":"ability","p":"the","w":"students'"}
+{"n":"\"to\" \" 0x5 \" \"to\"","p":"\"students'\" \" 0x5 \" \"your\"","w":"ability"}
+{"n":"and","p":"all","w":"tenses"}
+{"n":"while","p":"and","w":"persons"}
+{"n":"\",\" \" 0x5 \" \"us-\"","p":"\"persons\" \" 0x5 \" \"spontaneity\"","w":"while"}
+{"n":"them","p":",","w":"forcing"}
+{"n":"while","p":"develop","w":"spontaneity"}
+{"n":"you","p":"the","w":"verb."}
+{"n":"\"this\" \" 0x5 \" \"newspapers.\"","p":"\"are\" \" 0x5 \" \"by\"","w":"reading"}
+{"n":"it","p":"i","w":"trust"}
+{"n":"\"you.\" \" 0x5 \" \"you\"","p":"\"will\" \" 0x5 \" \"would\"","w":"help"}
+{"n":"\"most\" \" 0x5 \" \"it\"","p":"\"help\" \" 0x5 \" \"to\"","w":"you."}
+{"n":"\"of\" \" 0x5 \" \"widely\"","p":"\"you.\" \" 0x5 \" \"world's\"","w":"most"}
+{"n":"\"our\" \" 0x5 \" \"nothing\"","p":"\"i\" \" 0x5 \" \"you\"","w":"think"}
+{"n":"\"downloadable\" \" 0x5 \" \"downloadable\"","p":"\"our\" \" 0x5 \" \"the\"","w":"freely"}
+{"n":"\"spoken\" \" 0x5 \" \"spoken\"","p":"\"freely\" \" 0x5 \" \"freely\"","w":"downloadable"}
+{"n":"\"will\" \" 0x5 \" \"whether\"","p":"\"on\" \" 0x5 \" \"from\"","w":"www.freeenglishnow.com"}
+{"n":"to","p":"of","w":"benefit"}
+{"n":"most","p":"the","w":"world's"}
+{"n":"\"used\" \" 0x5 \" \"distributed\"","p":"\"most\" \" 0x5 \" \"most\"","w":"widely"}
+{"n":"hundreds","p":"is","w":"helping"}
+{"n":"\"of\" \" 0x5 \" \"of\"","p":"\"helping\" \" 0x5 \" \",\"","w":"hundreds"}
+{"n":"\"of\" \" 0x5 \" \"of\"","p":"\"of\" \" 0x5 \" \"of\"","w":"thousands"}
+{"n":"\"the\" \" 0x5 \" \"the\"","p":"\"students\" \" 0x5 \" \"students\"","w":"around"}
+{"n":"\"learn\" \" 0x5 \" \"are\"","p":"\"the\" \" 0x5 \" \"the\"","w":"world"}
+{"n":"in","p":"you","w":"lived"}
+{"n":"\"of\" \" 0x5 \" \"of\"","p":"\"each\" \" 0x5 \" \"each\"","w":"hour"}
+{"n":"as","p":"english","w":"twice"}
+{"n":"as","p":"as","w":"fast"}
+{"n":"\"learn\" \" 0x5 \" \"help\"","p":"\"you\" \" 0x5 \" \"quickly\"","w":"could"}
+{"n":"english","p":"a","w":"college"}
+{"n":"however","p":"english","w":"class."}
+{"n":"\"more\" \" 0x5 \" \"easier\"","p":"\"is\" \" 0x5 \" \"it\"","w":"much"}
+{"n":"\"to\" \" 0x5 \" \"task.\"","p":"\"more\" \" 0x5 \" \"a\"","w":"difficult"}
+{"n":"\"in\" \" 0x5 \" \"if\"","p":"\"english\" \" 0x5 \" \"english\"","w":"fluently"}
+{"n":"\"where\" \" 0x5 \" \"where\"","p":"\"a\" \" 0x5 \" \"a\"","w":"country"}
+{"n":"\"english\" \" 0x5 \" \"you\"","p":"\"country\" \" 0x5 \" \"country\"","w":"where"}
+{"n":"used.","p":"is","w":"seldom"}
+{"n":"if","p":"seldom","w":"used."}
+{"n":"\"in\" \" 0x5 \" \"in\"","p":"\"you\" \" 0x5 \" \"you\"","w":"live"}
+{"n":"\"hear\" \" 0x5 \" \"spoken\"","p":"\"not\" \" 0x5 \" \"not\"","w":"regularly"}
+{"n":"\"properly\" \" 0x5 \" \"regular\"","p":"\"regularly\" \" 0x5 \" \"undoubtedly\"","w":"hear"}
+{"n":"pro-","p":"hear","w":"properly"}
+{"n":"nounced","p":"properly","w":"pro-"}
+{"n":",","p":"pro-","w":"nounced"}
+{"n":"correct","p":",","w":"grammatically"}
+{"n":"english","p":"grammatically","w":"correct"}
+{"n":"\"less\" \" 0x5 \" \"though\"","p":"\"in\" \" 0x5 \" \",\"","w":"even"}
+{"n":"\"than\" \" 0x5 \" \"than\"","p":"\"even\" \" 0x5 \" \"even\"","w":"less"}
+{"n":"in","p":"normally","w":"takes"}
+{"n":"\"however\" \" 0x5 \" \"this\"","p":"\"your\" \" 0x5 \" \"your\"","w":"country."}
+{"n":"on","p":"is","w":"free"}
+{"n":",","p":"the","w":"internet"}
+{"n":"cost","p":"will","w":"still"}
+{"n":"\"you\" \" 0x5 \" \"you\"","p":"\"still\" \" 0x5 \" \"will\"","w":"cost"}
+{"n":"\"deal\" \" 0x5 \" \"deal\"","p":"\"a\" \" 0x5 \" \"a\"","w":"great"}
+{"n":"\"to\" \" 0x5 \" \"of\"","p":"\"great\" \" 0x5 \" \"great\"","w":"deal"}
+{"n":"discipline.","p":"of","w":"personal"}
+{"n":"there","p":"personal","w":"discipline."}
+{"n":"will","p":"discipline.","w":"there"}
+{"n":"your","p":"of","w":"changing"}
+{"n":"wasting","p":"must","w":"stop"}
+{"n":"your","p":"stop","w":"wasting"}
+{"n":"lessons","p":"and","w":"writing"}
+{"n":"spoken","p":"and","w":"practice"}
+{"n":"when","p":"english","w":"instead—even"}
+{"n":"\"tell\" \" 0x5 \" \"in\"","p":"\"when\" \" 0x5 \" \"take\"","w":"others"}
+{"n":"(has","p":"and","w":"writing."}
+{"n":"studying","p":"writing.","w":"(has"}
+{"n":"helped","p":"grammar","w":"really"}
+{"n":"you","p":"really","w":"helped"}
+{"n":"chapter","p":"english","w":"fluently?)"}
+{"n":"\"summary:\" \" 0x5 \" \"will\"","p":"\"fluently?)\" \" 0x5 \" \"this\"","w":"chapter"}
+{"n":"this","p":"chapter","w":"summary:"}
+{"n":"\"you\" \" 0x5 \" \"you\"","p":"\"will\" \" 0x5 \" \"also\"","w":"encourage"}
+{"n":"sistent","p":"be","w":"per-"}
+{"n":"in","p":"per-","w":"sistent"}
+{"n":"at","p":"english.","w":"staying"}
+{"n":"will","p":"the","w":"task"}
+{"n":"this","p":"greatest","w":"difficulty."}
+{"n":"the","p":"reading","w":"newspapers."}
+{"n":"by","p":"chapter","w":"closes"}
+{"n":"you","p":"by","w":"telling"}
+{"n":"success","p":"can","w":"expect"}
+{"n":"\"as\" \" 0x5 \" \"as\"","p":"\"expect\" \" 0x5 \" \"of\"","w":"success"}
+{"n":"\"new\" \" 0x5 \" \"other\"","p":"\"speak\" \" 0x5 \" \"english—or\"","w":"any"}
+{"n":"but","p":"difficult","w":"task."}
+{"n":"the","p":"not","w":"impossible."}
+{"n":"it","p":"will","w":"make"}
+{"n":"\"to\" \" 0x5 \" \"as\"","p":"\"always\" \" 0x5 \" \"it\"","w":"seems"}
+{"n":"you","p":"in","w":"steps."}
+{"n":"of","p":"a","w":"period"}
+{"n":"a","p":"then","w":"reach"}
+{"n":"where","p":"a","w":"plateau"}
+{"n":"further","p":"not","w":"making"}
+{"n":"progress.","p":"making","w":"further"}
+{"n":"\"then\" \" 0x5 \" \"then\"","p":"\"further\" \" 0x5 \" \"excellent\"","w":"progress."}
+{"n":",","p":",","w":"suddenly"}
+{"n":"that","p":"will","w":"realize"}
+{"n":"more","p":"have","w":"once"}
+{"n":"excellent","p":"more","w":"made"}
+{"n":"progress.","p":"made","w":"excellent"}
+{"n":"seem","p":"will","w":"again"}
+{"n":"as","p":"again","w":"seem"}
+{"n":"\"is\" \" 0x5 \" \"is\"","p":"\"though\" \" 0x5 \" \"think\"","w":"nothing"}
+{"n":"\"this\" \" 0x5 \" \"be\"","p":"\"is\" \" 0x5 \" \"is\"","w":"happening."}
+{"n":"these","p":"normal","w":"process."}
+{"n":"stair","p":"process.","w":"these"}
+{"n":"steps","p":"these","w":"stair"}
+{"n":"in","p":"stair","w":"steps"}
+{"n":"to","p":"more","w":"exaggerated"}
+{"n":"who","p":"to","w":"those"}
+{"n":"speak","p":"those","w":"who"}
+{"n":",","p":"studying","w":"diligently"}
+{"n":"hear","p":"will","w":"undoubtedly"}
+{"n":"progress","p":"hear","w":"regular"}
+{"n":"in","p":"regular","w":"progress"}
+{"n":"you","p":"be","w":"persistent!"}
+{"n":"diligently.","p":"you","w":"work"}
+{"n":"48","p":"work","w":"diligently."}
+{"n":"learning","p":"diligently.","w":"48"}
+{"n":"you","p":"english","w":"tells"}
+{"n":"in","p":"would","w":"require"}
+{"n":"\"grammar-based\" \" 0x5 \" \"of\"","p":"\"the\" \" 0x5 \" \"the\"","w":"best"}
+{"n":"english","p":"best","w":"grammar-based"}
+{"n":"\"programs.\" \" 0x5 \" \"method\"","p":"\"english\" \" 0x5 \" \"feedback\"","w":"training"}
+{"n":"if","p":"training","w":"programs."}
+{"n":"others","p":"will","w":"take"}
+{"n":"new","p":"this","w":"entirely"}
+{"n":"extremely","p":"english","w":"works"}
+{"n":"well.","p":"works","w":"extremely"}
+{"n":"it","p":"extremely","w":"well."}
+{"n":"on","p":"first","w":"introduced"}
+{"n":"www.freeenglishnow.com.","p":"the","w":"website"}
+{"n":"within","p":"website","w":"www.freeenglishnow.com."}
+{"n":"two","p":"www.freeenglishnow.com.","w":"within"}
+{"n":"become","p":"it","w":"had"}
+{"n":"the","p":"had","w":"become"}
+{"n":"most","p":"the","w":"world’s"}
+{"n":"spoken","p":"widely","w":"distributed"}
+{"n":"today","p":"language","w":"course."}
+{"n":",","p":"course.","w":"today"}
+{"n":"this","p":"the","w":"website."}
+{"n":"explains","p":"book","w":"completely"}
+{"n":"this","p":"completely","w":"explains"}
+{"n":"training","p":"the","w":"feedback"}
+{"n":"known","p":"method","w":"(also"}
+{"n":"as","p":"(also","w":"known"}
+{"n":"language","p":"the","w":"proprioceptive"}
+{"n":"you","p":"learning","w":"method)."}
+{"n":"learn","p":"can","w":"now"}
+{"n":"any","p":"learn","w":"english—or"}
+{"n":"and","p":"other","w":"language—faster"}
+{"n":"fluency","p":"with","w":"greater"}
+{"n":"this","p":"new","w":"method."}
+{"n":"you","p":"english","w":"program."}
+{"n":"you","p":"www.freeenglishnow.com","w":"whether"}
+{"n":"or","p":"a","w":"beginner"}
+{"n":"english","p":"or","w":"advanced"}
+{"n":"we","p":"english","w":"student."}
+{"n":"you","p":"we","w":"wish"}
