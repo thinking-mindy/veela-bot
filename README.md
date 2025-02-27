@@ -5,6 +5,8 @@
 
 ## Run with Cargo
 - `cargo shuttle run`
+- Chat with the bot: `curl --json '{"qsn":"hey"}' http://127.0.0.1:8000/veela`
+- Train your bot: `curl --json '{"pass":"0x01"}' http://127.0.0.1:8000/train`
 
 ## Node.js Install
 - `npm i @thinkingminds/veela`
